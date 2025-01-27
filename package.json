@@ -1,0 +1,19 @@
+{
+  "name": "udcypress",
+  "version": "1.0.0",
+  "description": "echo \"# UdCypress\" >> README.md\r git init\r git add README.md\r git commit -m \"first commit\"\r git branch -M main\r git remote add origin https://github.com/OscarOuw/UdCypress.git\r git push -u origin main# UdCypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarOuw/UdCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarOuw/UdCypress/issues"
+  },
+  "homepage": "https://github.com/OscarOuw/UdCypress#readme"
+}

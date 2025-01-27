@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/OscarOuw/UdCypress/issues"
   },
-  "homepage": "https://github.com/OscarOuw/UdCypress#readme"
+  "homepage": "https://github.com/OscarOuw/UdCypress#readme",
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  }
 }

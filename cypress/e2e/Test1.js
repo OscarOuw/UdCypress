@@ -31,7 +31,6 @@ cy.get('.brand').should('have.text','GREENKART')
 cy.get('.brand').then(function(logoelement)
 {
     cy.log(logoelement.text())
-
 })
 
 

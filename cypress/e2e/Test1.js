@@ -20,8 +20,13 @@ if(textVeg.includes('Cashews'))
 {
     cy.wrap($el).find('button').click()
 }
-
 })
+cy.get('.brand').then(function(logoelement)
+{
+    cy.log(logoelement.text())
+})
+
+
 
 })
 

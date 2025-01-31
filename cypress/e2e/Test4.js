@@ -22,6 +22,5 @@ cy.on('window:confirm',(str)=>
         expect(str).to.be.equal('Hello , Are you sure you want to confirm?')
     })
 
-
 })
 })

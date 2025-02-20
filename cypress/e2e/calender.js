@@ -24,7 +24,7 @@ describe('Calender test', () => {
            cy.wrap($el).invoke('val').should('eq', expectedList[index]);
         }
         
-        
+    
         
         )
 
